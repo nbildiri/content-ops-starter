@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: custom sf solutions
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
