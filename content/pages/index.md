@@ -32,6 +32,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/Screenshot_2025-01-08_220641-removebg-preview.png
     badge:
       label: ''
       color: text-primary
