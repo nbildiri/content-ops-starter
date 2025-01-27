@@ -54,6 +54,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Empowering Your Business with Salesforce Solutions..png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
