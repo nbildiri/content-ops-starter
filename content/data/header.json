@@ -75,7 +75,6 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/Screenshot_2025-01-08_220641-removebg-preview.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
