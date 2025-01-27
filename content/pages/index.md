@@ -13,7 +13,7 @@ sections:
       - label: Schedule a Free Consultation
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
