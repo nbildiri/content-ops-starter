@@ -1,16 +1,14 @@
 {
     "logo": {
-        "url": "/images/Screenshot_2025-01-08_220641-removebg-preview.png",
-        "altText": "Logo dark",
+        "type": "ImageBlock",
+        "url": "/images/hero2.svg",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
         "styles": {
             "self": {
-                "margin": [
-                    "mr-3"
-                ]
+                "borderRadius": "medium"
             }
-        },
-        "type": "ImageBlock",
-        "elementId": "logo"
+        }
     },
     "primaryLinks": [
         {
