@@ -61,7 +61,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Log In",
+            "label": "Contact Us",
             "altText": "Log In",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
