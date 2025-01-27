@@ -54,7 +54,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/—Pngtree—high-tech cloud_5917237.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
