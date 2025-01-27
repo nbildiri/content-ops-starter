@@ -63,7 +63,7 @@
         {
             "label": "Contact Us",
             "altText": "Contact Us",
-            "url": "https://app.netlify.com/signup",
+            "url": "#contact-us",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
