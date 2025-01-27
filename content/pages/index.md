@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Empowering Your Business with Tailored Salesforce Solutions
-      color: text-neutral
+      color: text-light
       type: TitleBlock
     subtitle: Unlock Salesforce's full potential to enhance efficiency and drive growth.
     text: ''
