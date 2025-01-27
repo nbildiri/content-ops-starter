@@ -62,7 +62,7 @@
     "secondaryLinks": [
         {
             "label": "Contact Us",
-            "altText": "Log In",
+            "altText": "Contact Us",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
