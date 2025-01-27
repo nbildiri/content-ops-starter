@@ -54,7 +54,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Screenshot 2025-01-26 221805.png
+      url: /images/Screenshot 2025-01-26 222000.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
